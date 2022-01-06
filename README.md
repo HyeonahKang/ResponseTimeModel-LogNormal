@@ -1,4 +1,4 @@
-# Joint Estimation of the Three-Parameter Logistic Item-Response Model and the Log-Normal Response-Time Model
+### Joint Estimation of the Three-Parameter Logistic Item-Response Model and the Log-Normal Response-Time Model
 
 - mmap: estimates item parameters jointly under 3PLM and LNM via marginal maximum a posteriori
 - mmap_fsb: subroutine for mmap that performs Fisher's scoring
